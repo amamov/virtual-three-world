@@ -6,7 +6,7 @@
 
 ## Reference
 
-- [threejs docs](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
+- [threejs docs](https://threejs.org/docs/#manual/en/introduction/Loading-3D-models)
 - [threejs manual](https://threejs.org/manual/#en/fundamentals)
 - [threejs tutorials](https://sbcode.net/threejs/scene-camera-renderer/)
 
