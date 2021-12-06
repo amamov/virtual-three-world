@@ -1,0 +1,18 @@
+{
+  "name": "virtual-three-world",
+  "version": "1.0.0",
+  "description": "hello threejs with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amamov",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.135.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.134.0",
+    "typescript": "^4.5.2"
+  }
+}
